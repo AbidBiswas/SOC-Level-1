@@ -7,7 +7,7 @@ Junior Security Analyst | SOC Fundamentals
 
 ## 1. SOC L1 Responsibilities
 
-### <span style="color:red">Q1. What is the role of a SOC Level 1 Analyst?</span>
+![Q1](https://img.shields.io/badge/Q1-red?style=flat-square) **What is the role of a SOC Level 1 Analyst?**
 
 A SOC Level 1 Analyst is the first line of defence in a Security Operations Centre.
 
@@ -16,13 +16,13 @@ A SOC Level 1 Analyst is the first line of defence in a Security Operations Cent
 - Triage and investigate suspicious activities.
 - Identify true positives and false positives.
 - Document investigation findings.
-- Escalate serious incidents to SOC L2.
+- Escalate serious or complex incidents to SOC L2.
 
 ---
 
 ## 2. Daily SOC Operations
 
-### <span style="color:red">Q2. What are the daily responsibilities of a SOC L1 Analyst?</span>
+![Q2](https://img.shields.io/badge/Q2-red?style=flat-square) **What are the daily responsibilities of a SOC L1 Analyst?**
 
 An L1 analyst monitors security alerts, investigates suspicious activities and follows established security procedures.
 
@@ -34,7 +34,7 @@ Monitor → Triage → Investigate → Document → Escalate or Close
 
 ## 3. Security Alert Classification
 
-### <span style="color:red">Q3. What is the difference between a true positive and a false positive?</span>
+![Q3](https://img.shields.io/badge/Q3-red?style=flat-square) **What is the difference between a true positive and a false positive?**
 
 - **True Positive:** A genuine threat is correctly detected.
 - **False Positive:** Legitimate activity incorrectly triggers a security alert.
@@ -47,7 +47,7 @@ Monitor → Triage → Investigate → Document → Escalate or Close
 
 ## 4. Alert Investigation
 
-### <span style="color:red">Q4. How do you investigate a security alert?</span>
+![Q4](https://img.shields.io/badge/Q4-red?style=flat-square) **How do you investigate a security alert?**
 
 1. Review the alert name, severity and timestamp.
 2. Identify the affected user, IP address or hostname.
@@ -61,7 +61,7 @@ Monitor → Triage → Investigate → Document → Escalate or Close
 
 ## 5. SOC Monitoring Tools
 
-### <span style="color:red">Q5. What tools does a SOC Analyst use?</span>
+![Q5](https://img.shields.io/badge/Q5-red?style=flat-square) **What tools does a SOC Analyst use?**
 
 **SIEM**
 - Microsoft Sentinel
@@ -82,7 +82,7 @@ Monitor → Triage → Investigate → Document → Escalate or Close
 
 ## 6. SOC Teamwork
 
-### <span style="color:red">Q6. Why is teamwork important in a SOC?</span>
+![Q6](https://img.shields.io/badge/Q6-red?style=flat-square) **Why is teamwork important in a SOC?**
 
 SOC analysts cooperate with other security and IT teams to investigate threats and coordinate incident response.
 
@@ -95,7 +95,7 @@ SOC analysts cooperate with other security and IT teams to investigate threats a
 
 ## 7. Continuous Learning
 
-### <span style="color:red">Q7. Why should SOC analysts continuously learn about new threats?</span>
+![Q7](https://img.shields.io/badge/Q7-red?style=flat-square) **Why should SOC analysts continuously learn about new threats?**
 
 Cyber threats constantly evolve. SOC analysts must improve their knowledge to recognise emerging attacks.
 
@@ -110,7 +110,7 @@ Cyber threats constantly evolve. SOC analysts must improve their knowledge to re
 
 ## 8. SOC Workshops
 
-### <span style="color:red">Q8. What is the purpose of SOC brainstorming sessions and workshops?</span>
+![Q8](https://img.shields.io/badge/Q8-red?style=flat-square) **What is the purpose of SOC brainstorming sessions and workshops?**
 
 SOC workshops help analysts share knowledge, discuss threats and improve investigation skills.
 
@@ -136,4 +136,3 @@ SOC workshops help analysts share knowledge, discuss threats and improve investi
 | Playbook | Documented investigation and response steps |
 
 **SOC Workflow:** Detect → Investigate → Document → Escalate
-
